@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const tela = require("readline-sync")
 const cadastro = require("./src/cadastro-aluno.ts")
 const { telaNotas } = require("./src/cadastro-notas.ts")
@@ -31,3 +32,6 @@ function main() {
 }
 
 main()
+=======
+console.log('rodando')
+>>>>>>> 97a1c3644a7e49105884e6d16a259db21d908797

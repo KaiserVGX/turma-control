@@ -4,20 +4,36 @@
   "description": "Projeto desenvolvido para prática de **lógica de programação** utilizando **TypeScript**.",
   "main": "main.ts",
   "scripts": {
+<<<<<<< HEAD
     "start": "ts-node main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glesiosantos/turma-control.git"
+=======
+    "start": "npx ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiserVGX/turma-control.git"
+>>>>>>> 97a1c3644a7e49105884e6d16a259db21d908797
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "bugs": {
     "url": "https://github.com/glesiosantos/turma-control/issues"
   },
   "homepage": "https://github.com/glesiosantos/turma-control#readme",
+=======
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KaiserVGX/turma-control/issues"
+  },
+  "homepage": "https://github.com/KaiserVGX/turma-control#readme",
+>>>>>>> 97a1c3644a7e49105884e6d16a259db21d908797
   "devDependencies": {
     "@types/node": "^25.6.0",
     "ts-node": "^10.9.2",
